@@ -16,9 +16,8 @@ img {
 }
 
 .bug_item {
-    display: flex;
-    padding: 10px;
-    flex-wrap: wrap;
+  display: flex;
+  padding: 50px;
 }
 
 .bug_printscreen {
